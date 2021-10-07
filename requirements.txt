@@ -1,4 +1,4 @@
 pyrogram
 dotmap
 aiohttp
-git+https://github.com/jamadden/trollius
+git+https://github.com/jamadden/trollius.git
